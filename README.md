@@ -1,3 +1,5 @@
+<img width="1170" height="856" alt="Screenshot 2026-06-08 170514" src="https://github.com/user-attachments/assets/63ff5dd0-c813-4313-96cd-818ff1ce31b9" /><img width="1172" height="844" alt="Screenshot 2026-06-08 170359" src="https://github.com/user-attachments/assets/01cd81ad-d221-4d82-abf4-c9ff49bfda9c" />
+
 # Hand Gesture Volume Control
 
 A Python-based computer vision project that allows users to control their system volume using **hand gestures** through a webcam. The application uses **MediaPipe Hand Tracking** to detect finger landmarks and adjusts the computer's master volume based on the distance between the **thumb and index finger**.
